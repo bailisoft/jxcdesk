@@ -1,0 +1,19 @@
+{
+	"name": "百利进销存",
+	"main_version": "1",
+	"sub_verion": "1",
+	"regists": [
+		{
+			"table": "cargo",
+			"cname": "货号"		
+		},
+		{
+			"table": "inout",
+			"cname": "收支项"		
+		},
+		{
+			"table": "shop",
+			"cname": "门店"		
+		}
+	]
+}
